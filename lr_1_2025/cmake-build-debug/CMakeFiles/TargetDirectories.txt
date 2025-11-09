@@ -1,0 +1,3 @@
+/Users/king/Desktop/lr_1_2025/cmake-build-debug/CMakeFiles/lr_1_2025.dir
+/Users/king/Desktop/lr_1_2025/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/king/Desktop/lr_1_2025/cmake-build-debug/CMakeFiles/rebuild_cache.dir
